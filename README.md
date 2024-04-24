@@ -14,9 +14,9 @@ footer=> Descripción
 
 # Requisitos
 
-Node.js (preferiblemente la última versión estable)
-Vue CLI
-ioinic
+Node.js (preferiblemente la última versión estable),
+Vue CLI,
+ioinic.
 
 
 # Instalacion 
