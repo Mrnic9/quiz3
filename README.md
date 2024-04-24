@@ -15,8 +15,8 @@ footer=> Descripción
 # Requisitos
 
 Node.js (preferiblemente la última versión estable)
-Angular CLI
 Vue CLI
+ioinic
 
 
 # Instalacion 
